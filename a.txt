@@ -4,6 +4,10 @@ asdfadsf
 asasdfasdf
 asdfadf
 as
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> vvv
 asdfasssssssss
 dfadsf
